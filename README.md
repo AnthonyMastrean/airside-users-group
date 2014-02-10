@@ -13,3 +13,4 @@ I'm going to try to bootstrap a users' group on github! I don't want to pay for 
  * use issues, labels, and milestones well
  * make an organization, email, & twitter account for these repos
  * make a github-pages driven website (using Octopress?) to publish info, events (ical links?), and other updates
+ * what about google hangouts for virtual meetings?
